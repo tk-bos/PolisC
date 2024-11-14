@@ -17,6 +17,8 @@ liczbaCałkowita główny otwarcieNawiasu zamknięcieNawiasu  otwarcieNawiasówK
     zamknięcieNawiasówKlamrowych
 
     std::cout << NAPIS << std::endl;
+    std::cout << NAPIS1 << std::endl;
+    
 
 
     zwróć zero średnik

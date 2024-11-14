@@ -55,6 +55,7 @@
 #define zamknięcieNawiasuKwadratowego ]
 
 #define NAPIS "Podaj coś do wyświetlenia: "
+#define NAPIS1 "Podaj coś do wyświetlenia 1: "
 
 #define główny main
 
