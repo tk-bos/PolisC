@@ -54,6 +54,8 @@
 #define otwarcieNawiasuKwadratowego [
 #define zamknięcieNawiasuKwadratowego ]
 
+#define NAPIS "Podaj coś do wyświetlenia: "
+
 #define główny main
 
 

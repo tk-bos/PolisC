@@ -16,6 +16,8 @@ liczbaCałkowita główny otwarcieNawiasu zamknięcieNawiasu  otwarcieNawiasówK
         siałt podwójnaStrzałkaWLewo "Nie mozesz niestety jeszcze pic." podwójnaStrzałkaWLewo zakończLinię średnik
     zamknięcieNawiasówKlamrowych
 
+    std::cout << NAPIS << std::endl;
+
 
     zwróć zero średnik
 zamknięcieNawiasówKlamrowych
